@@ -1,0 +1,51 @@
+Q1.Years of Experience in Software Development,Q2.How often do you consider using Move Method Refactoring in your projects?,Q3.Would you prefer to use tools for detecting Move Method Refactoring opportunities?,Q4.Which of these tools do you prefer?,Do you have any suggestions for features or improvements in move method refactoring tools?
+Less than 1 year,Never,Yes,Tool 1,
+1-3 years,Always,Yes,Tool 3,Introduce a comprehensive search functionality for quick navigation.
+Less than 1 year,Rarely,Meybe,Tool 2,It would be helpful if the tool could offer real-time feedback on the impact of moving methods during the refactoring process.
+More than 10 years,Often,Yes,Tool 3,A feature that tracks and measures the performance impact of refactoring would be useful.
+More than 10 years,Always,Yes,Tool 3,"The tool should support collaborative refactoring, allowing multiple developers to work on the same refactoring task."
+1-3 years,Never,No,Tool 1,
+1-3 years,Rarely,No,Tool 2,
+4-5 years,Sometimes,Yes,Tool 1,I would like to see a feature that allows for customizable refactoring rules based on project-specific guidelines.
+6-10 years,Often,Yes,Tool 3,Integration with IDEs for seamless refactoring within the development environment would be beneficial.
+6-10 years,Sometimes,Meybe,Tool 3,
+4-5 years,Sometimes,No,Tool 1,
+6-10 years,Rarely,No,Tool 3,
+4-5 years,Sometimes,Yes,Tool 1,The refactoring tool should offer better support for handling large codebases.
+4-5 years,Rarely,Meybe,Tool 2,
+1-3 years,Rarely,No,Tool 1,
+1-3 years,Sometimes,Yes,Tool 3,I think it would be great if the tool could automatically suggest potential target classes for methods that need to be moved.
+6-10 years,Sometimes,Yes,Tool 3,It would be helpful to have a visual representation of dependencies to understand the impact of moving a method.
+More than 10 years,Often,Yes,Tool 3,The refactoring tool should include a feature to preview the changes before applying them.
+6-10 years,Always,Yes,Tool 3,I prefer a feature that highlights any increase or decrease in class cohesion and coupling as a result of the refactoring.
+4-5 years,Often,Yes,Tool 1,
+4-5 years,Always,Meybe,Tool 3,
+4-5 years,Sometimes,Yes,Tool 2,
+4-5 years,Rarely,No,Tool 3,
+6-10 years,Rarely,Meybe,Tool 2,
+6-10 years,Often,Yes,Tool 3,I would appreciate an integration with version control systems to track changes made during refactoring.
+6-10 years,Often,Meybe,Tool 1,A collaborative feature where multiple developers can work on refactoring simultaneously and merge their changes smoothly would be innovative.
+4-5 years,Rarely,No,Tool 1,
+4-5 years,Often,Yes,Tool 3,Suggestion: improving the speed and efficiency of the refactoring process would be beneficial.
+1-3 years,Rarely,No,Tool 2,
+4-5 years,Always,Yes,Tool 3,
+4-5 years,Often,Meybe,Tool 3,
+4-5 years,Often,Meybe,Tool 3,
+6-10 years,Sometimes,Meybe,Tool 3,
+4-5 years,Sometimes,Yes,Tool 3,
+6-10 years,Rarely,No,Tool 3,
+4-5 years,Sometimes,No,Tool 3,I'd like to use a composite tool with the ability to detect multiple refactorings.
+4-5 years,Often,Yes,Tool 2,
+4-5 years,Sometimes,No,Tool 3,
+4-5 years,Always,Meybe,Tool 3,I would like to see better support for handling methods with multiple overloads
+6-10 years,Often,Yes,Tool 3,A built-in unit test generation tool to verify the moved method's functionality would be useful.
+6-10 years,Sometimes,No,Tool 3,I think move method refactoring tools should offer better support for preserving code history and annotations during the refactoring process.
+4-5 years,Sometimes,Meybe,Tool 3,
+6-10 years,Sometimes,Meybe,Tool 3,
+6-10 years,Often,Meybe,Tool 3,
+6-10 years,Often,Yes,Tool 3,
+6-10 years,Often,Meybe,Tool 3,
+4-5 years,Always,Meybe,Tool 3,"Yes, I think it would be helpful if move method refactoring tools could provide more detailed analysis of the impact of the method move on other parts of the codebase."
+Less than 1 year,Never,Yes,Tool 3,
+1-3 years,Always,Yes,Tool 3,
+More than 10 years,Sometimes,Yes,Tool 3,Enhanced error handling and reporting for potential conflicts during refactoring are needed.

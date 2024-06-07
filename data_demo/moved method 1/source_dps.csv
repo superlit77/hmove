@@ -1,0 +1,5 @@
+WCWidth.wcwidth,WCWidth.bisearch
+ConsoleReader.back,WCWidth.wcwidth
+ConsoleReader.setPrompt,WCWidth.wcwidth
+ConsoleReader.moveInternal,WCWidth.wcwidth
+ConsoleReader.countEchoCharacters,WCWidth.wcwidth
